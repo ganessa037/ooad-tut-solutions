@@ -1,0 +1,25 @@
+# Ignore all .class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore node_modules directory (commonly used in JavaScript/Node.js projects)
+node_modules/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore build directory
+build/
+
+# Ignore environment variable files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore test and lab test folders
+/test/
+/lab test/
